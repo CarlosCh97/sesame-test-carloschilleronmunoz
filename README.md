@@ -1,8 +1,8 @@
-Prueba técnica para el puesto de Front-end en Sesame.
+## Prueba técnica para el puesto de Front-end en Sesame.
 
 Autor: Carlos Chillerón Muñoz
 
-## Project Setup
+### Project Setup
 
 npm install
 
